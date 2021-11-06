@@ -45,7 +45,7 @@ const data = {
     work: `${chalk.white("Co-Lead of Automated QA Team at")} ${chalk
         .hex("#2b82b2")
         .bold("Oppia Foundation")}`,
-    twitter: chalk.gray("https://twitter.com/") + chalk.cyan("laser_29"),
+    twitter: chalk.gray("https://twitter.com/") + chalk.cyan("laser_39"),
     github: chalk.gray("https://github.com/") + chalk.green("SAEb-ai"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("md-shahbaz-alam-609a661b2"),
 
