@@ -1,6 +1,6 @@
 {
   "name": "mdshahbazalam",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A personal card for Md Shahbaz Alam(@SAEb-ai)",
   "main": "card.js",
   "bin": {
