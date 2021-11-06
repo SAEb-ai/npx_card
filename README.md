@@ -1,23 +1,45 @@
-# NPX CARD
-This my NPX card unique style to connect with me directly via console or terminal
+# npx-card
 
-👇 just hit 
+Open your terminal and hit 
 ```bash
-npx anmol
+npx mdshahbazalam
 ```
-And get to know me in unique style.
 
-### I spent a non-trivial amount of effort building and designing this iteration of npx card, and I am proud of it! All I ask of you all is to put a **star** ⭐ on this project and not claim this effort as your own ♥.
-
-### SCREENSHOT
-
-The final output might look something like this:
-
-![image](https://github.com/anmol098/npx_card/blob/master/demo.gif)
+### If You are forking this repo then do star <a href="https://github.com/anmol098/npx_card">Anmol Singh's Repo</a>, as it is his Project so credit him for his efforts.
 
 
-<hr/>
+## Prequistes 
 
-##### STEPS TO CREATE YOUR OWN
-The article written by our friend @jackboberg. I used the same for the reference to deploy the package. 
-[Write a Simple npx Business Card](https://studioelsa.se/blog/open-source-oss-npx-business-card). 
+ - <a href="https://www.npmjs.com/">npm</a>
+ - <a href="https://nodejs.org/en/">node.js</a>
+
+## Installation.
+
+ - Clone the repo
+   ```bash
+      git clone https://github.com/SAEb-ai/npx-card.git
+      cd npx-card
+      npm install
+   ```
+ - Test it using
+  
+   ```bash
+      node card.js
+   ```
+ - Change the "name" in `package.json` 
+ - Change the information according to you in `card.js` file. 
+ - Make sure you have created an account on <a href="https://www.npmjs.com/">npmjs</a>
+ - Login on npm if you are not
+    ```bash
+      npm login
+    ```
+ - Atlast Publish
+  
+    ```bash
+      npm publish
+    ```
+ - Now you're ready to run 
+ 
+    ```bash
+      npx your-package-name
+    ```
